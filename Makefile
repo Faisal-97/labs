@@ -32,7 +32,7 @@ jenkins-down:
 elf: elf-clone elf-up elf-test elf-tidy
 
 elf-clone:
-	git clone https://github.com/KnowledgeHut-AWS/elf
+	git clone https://github.com/Faisal-97/elf.git
 
 elf-up:
 	cd elf && ./elf.sh
