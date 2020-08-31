@@ -52,7 +52,7 @@ elf-down:
 pro-graf: pro-graf-clone pro-graf-up pro-graf-test pro-graf-tidy
 
 pro-graf-clone:
-	git clone https://github.com/KnowledgeHut-AWS/pro-graf
+	git clone https://github.com/Faisal-97/pro-graf.git
 
 pro-graf-up:
 	cd pro-graf && ./pro-graf.sh
